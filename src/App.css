@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #eceef0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 108px;
+  height: 35px;
+}
+
+.item {
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+  width: 50px;
+  height: 12px;
+}
+
+.button1{
+  background-color: #41bc9c; 
+}
+
+
+.button2 {
+background-color: #bf0b1b;
+}
+
+.button3 {
+  background-color: #3a1d1d;
+}
+
+.table{
+  background-color: #282c34;
+}
